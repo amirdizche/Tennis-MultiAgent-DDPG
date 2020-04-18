@@ -1,0 +1,3 @@
+*.aspx linguist-detectable=false
+*.ipynb linguist-detectable=false
+*.py linguist-detectable=true
